@@ -1,0 +1,18 @@
+<Bindings>
+  <Binding name="CB_FIND_MINERALS" header="CUSTOMBINDER">CB_FindMinerals()</Binding>
+  <Binding name="CB_CHARGER">CB_ArmoredBlackDeathcharger()</Binding>
+  <Binding name="CB_HEARTHSTONE">CB_Hearthstone()</Binding>
+  <Binding name="CB_FISHING">CB_Fishing()</Binding>
+  <Binding name="CB_BLAZING_FORGE">CB_BlazingForgeKit()</Binding>
+  <Binding name="CB_BRAINWASHING">CB_GoblinBrainwashingDevice()</Binding>
+  <Binding name="CB_REPAIR_BOT">CB_FieldRepairBot75B()</Binding>
+  <Binding name="CB_AUCTIONEER">CB_MechanicalAuctioneer()</Binding>
+  <Binding name="CB_PICK_LOCK">CB_PickLock()</Binding>
+  <Binding name="CB_FORWORN_MULE">CB_ForwornMule()</Binding>
+  <Binding name="CB_FLOURISH">CB_Flourish()</Binding>
+  <Binding name="CB_MOLLE">CB_MOLLE()</Binding>
+  <Binding name="BattleTank">CB_BattleTank()</Binding>
+  <Binding name="CB_Kick">CB_Kick()</Binding>
+  <Binding name="CB_Kidney">CB_Kidney()</Binding>
+  <Binding name="CB_Ghostly">CB_Ghostly()</Binding>
+</Bindings>

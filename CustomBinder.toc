@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: CustomBinder
+## pype
+## Author: hybris
+## Version: 1.0
+
+BindingsStrings.lua
+CustomBinder.lua
+Bindings.xml
